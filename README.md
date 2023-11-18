@@ -1,16 +1,60 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<!--
-**kavishka3942/kavishka3942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with expertise in Python, Java, and C++. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python ![Python](https://img.shields.io/badge/Python-60%25-blue)
+- Java ![Java](https://img.shields.io/badge/Java-20%25-orange)
+- C++ ![C++](https://img.shields.io/badge/C++-10%25-yellow)
+- Git
+- [Add more technologies/tools]
+
+## 🚀 Projects
+
+### Project 1: [Project Name]
+
+Brief description of the project, its purpose, and the technologies used.
+
+![Project 1](link_to_project_image)
+
+[Link to Project Repository]
+
+### Project 2: [Project Name]
+
+Brief description of the project, its purpose, and the technologies used.
+
+![Project 2](link_to_project_image)
+
+[Link to Project Repository]
+
+[Add more projects as needed]
+
+## 📚 Skills
+
+- **Programming Languages:** Python, Java, C++
+- **Web Technologies:** HTML, CSS
+- **Version Control:** Git
+- [Add more skills]
+
+## 🌱 Currently Learning
+
+- [Technology/Framework you are currently learning]
+
+## 📫 Contact Me
+
+- LinkedIn: [Your LinkedIn Profile]
+- Email: your.email@example.com
+
+## 🤝 Let's Connect
+
+Feel free to reach out, and let's connect! I'm always open to collaborations and discussions.
+
+## 👨‍💻 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide=contribs,prs)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=your_username)](https://github.com/ryo-ma/github-profile-trophy)
+
